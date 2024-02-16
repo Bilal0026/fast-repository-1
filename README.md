@@ -1,2 +1,2 @@
 # fast-repository-1
-Auther - bilal khan
+Auther - bilal (khan niazi)
